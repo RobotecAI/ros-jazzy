@@ -3768,9 +3768,9 @@ libpointmatcher:
   url: https://github.com/ros2-gbp/libpointmatcher-release.git
   version: 1.4.2
 librealsense2:
-  tag: release/jazzy/librealsense2/2.58.2-1
+  tag: release/jazzy/librealsense2/2.57.7-1
   url: https://github.com/ros2-gbp/librealsense2-release.git
-  version: 2.58.2
+  version: 2.57.7
 libstatistics_collector:
   tag: release/jazzy/libstatistics_collector/1.7.4-1
   url: https://github.com/ros2-gbp/libstatistics_collector-release.git
@@ -6120,17 +6120,17 @@ rdl_urdfreader:
   url: https://github.com/jlack1987/rdl-release.git
   version: 6.0.0
 realsense2_camera:
-  tag: release/jazzy/realsense2_camera/4.58.2-1
+  tag: release/jazzy/realsense2_camera/4.57.7-1
   url: https://github.com/ros2-gbp/realsense-ros-release.git
-  version: 4.58.2
+  version: 4.57.7
 realsense2_camera_msgs:
-  tag: release/jazzy/realsense2_camera_msgs/4.58.2-1
+  tag: release/jazzy/realsense2_camera_msgs/4.57.7-1
   url: https://github.com/ros2-gbp/realsense-ros-release.git
-  version: 4.58.2
+  version: 4.57.7
 realsense2_description:
-  tag: release/jazzy/realsense2_description/4.58.2-1
+  tag: release/jazzy/realsense2_description/4.57.7-1
   url: https://github.com/ros2-gbp/realsense-ros-release.git
-  version: 4.58.2
+  version: 4.57.7
 realtime_tools:
   tag: release/jazzy/realtime_tools/3.11.0-1
   url: https://github.com/ros2-gbp/realtime_tools-release.git
