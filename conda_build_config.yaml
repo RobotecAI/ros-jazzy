@@ -22,10 +22,6 @@ libopencv:
   - 4.13.0
 libmujoco:
   - 3.8.1
-# Mitigation for
-# https://github.com/RoboStack/ros-jazzy/pull/126#issuecomment-3515455380
-libcap:
-  - 2.77
 libhwloc:
   - 2.12.2
 libxml2:
